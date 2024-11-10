@@ -91,7 +91,7 @@ export const DATA = {
       location: "Remote",
       title: "Junior Web Developer",
       logoUrl: "/light-bulb.svg",
-      start: "January 2022",
+      start: "Jan 2022",
       end: "Present",
       description:
         ["Currently working on a complex local service marketplace web app for booking services like home cleaning, using Next.js, TypeScript, Tailwind CSS, Node.js, NestJS, REST API, PostgreSQL, AWS, and Figma for designing.",
@@ -107,7 +107,7 @@ export const DATA = {
       title: "Full Stack Web Developer Internship",
       logoUrl: "/CompuFix.png",
       start: "May 2023",
-      end: "August 2023",
+      end: "Aug 2023",
       description:
         ["Developed backend website feature, Heatmap, using React, Node.js, Express.js, PostgreSQL, Maps JavaScript API.", "Implement changes to backend Strapi website, ensuring seamless integration and functionality."]
 
@@ -119,7 +119,7 @@ export const DATA = {
       location: "Kingston, Ontario",
       title: "IT Specialist Co-op",
       logoUrl: "/CompuFix.png",
-      start: "January 2023",
+      start: "Jan 2023",
       end: "April 2023",
       description:
         ["Diagnose and repair hardware/software issues on desktops and Apple products, ensuring optimal performance.", "Implement necessary changes on WordPress website, enhancing user experience and functionality."]
@@ -143,8 +143,8 @@ export const DATA = {
       location: "Remote",
       title: "E-commerce Business Owner",
       logoUrl: "/shopify.svg",
-      start: "January 2019",
-      end: "September 2020",
+      start: "Jan 2019",
+      end: "Sep 2020",
       description:
         ["Built and managed a Shopify store specializing in fitness products, handling global sales and customer service.", "Coordinated with Asian manufacturers for product sourcing and shipping.", "Executed social media marketing strategies, including Facebook and Google ads."]
     },
@@ -155,45 +155,38 @@ export const DATA = {
       location: "Remote",
       title: "Youtuber",
       logoUrl: "/google-icon.png",
-      start: "September 2014",
-      end: "August 2015",
+      start: "Sep 2014",
+      end: "Aug 2015",
       description:
         ["Created and managed video content on YouTube, including scripting, filming, editing, and engaging with fans. Achieved 2 million views through high-quality content and active audience interaction."]
     },
   ],
   education: [
     {
-      school: "Buildspace",
-      href: "https://buildspace.so",
-      degree: "s3, s4, sf1, s5",
-      logoUrl: "/buildspace.jpg",
-      start: "2023",
-      end: "2024",
+      school: "Harvard University",
+      href: "https://pll.harvard.edu/",
+      degree: "Computer Science Certificate",
+      logoUrl: "/Harvard-Logo.png",
+      start: "Sep 2024",
+      end: "Dec 2024",
     },
     {
-      school: "University of Waterloo",
-      href: "https://uwaterloo.ca",
-      degree: "Bachelor's Degree of Computer Science (BCS)",
-      logoUrl: "/waterloo.png",
-      start: "2016",
-      end: "2021",
+      school: "St. Lawrence College",
+      href: "https://www.stlawrencecollege.ca/",
+      degree: "Computer Systems Technician",
+      logoUrl: "/slc-logo.jpg",
+      start: "Sep 2021",
+      end: "April 2023",
     },
     {
-      school: "Wilfrid Laurier University",
+      school: "Kingston Collegiate and Vocational Institute",
       href: "https://wlu.ca",
-      degree: "Bachelor's Degree of Business Administration (BBA)",
-      logoUrl: "/laurier.png",
-      start: "2016",
-      end: "2021",
+      degree: "High School Diploma",
+      logoUrl: "/kcvi.jpg",
+      start: "Sep 2014",
+      end: "June 2018",
     },
-    {
-      school: "International Baccalaureate",
-      href: "https://ibo.org",
-      degree: "IB Diploma",
-      logoUrl: "/ib.png",
-      start: "2012",
-      end: "2016",
-    },
+    
   ],
   projects: [
     {
