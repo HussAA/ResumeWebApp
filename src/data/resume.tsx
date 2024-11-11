@@ -72,7 +72,7 @@ export const DATA = {
 
   work: [
     {
-      company: "Tech Axis Solutions",
+      company: "Tech Axis Solutions (Founder)",
       href: "/",
       badges: [],
       location: "Remote",
@@ -186,7 +186,7 @@ export const DATA = {
       start: "Sep 2014",
       end: "June 2018",
     },
-    
+
   ],
   projects: [
     {
@@ -214,8 +214,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+      video: "/Project1.mp4",
     },
     {
       title: "Magic UI",
@@ -247,7 +246,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      video: "/Project2.mp4",
     },
     {
       title: "llm.report",
@@ -280,7 +279,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://cdn.llm.report/openai-demo.mp4",
+      video: "/Project4.mp4",
     },
     {
       title: "Automatic Chat",
