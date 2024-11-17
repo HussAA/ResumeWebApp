@@ -1,5 +1,5 @@
 import { HackathonCard } from "@/components/hackathon-card";
-import BlurFade from "@/components/magicui/blur-fade";
+import BlurFade from "@/components/magicui/blur-fade"
 import BlurFadeText from "@/components/magicui/blur-fade-text";
 import { ProjectCard } from "@/components/project-card";
 import { ResumeCard } from "@/components/resume-card";
@@ -8,7 +8,6 @@ import { Badge } from "@/components/ui/badge";
 import { DATA } from "@/data/resume";
 import Link from "next/link";
 import Markdown from "react-markdown";
-import HyperText from "@/components/magicui/hyper-text";
 
 const BLUR_FADE_DELAY = 0.04;
 
@@ -125,7 +124,7 @@ export default function Page() {
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   I&apos;ve worked on a variety of projects, from simple
-                  websites to complex web applications. Here's a few.
+                  websites to complex web applications. Here&apos;s a few.
                 </p>
               </div>
             </div>
