@@ -51,7 +51,9 @@ export function ProjectCard({
         className={cn("block cursor-pointer", className)}
       >
         {video && (
-          <video
+          <div dangerouslySetInnerHTML={{
+            __html: `
+            <video
             src={video}
             autoPlay
             loop
@@ -59,6 +61,8 @@ export function ProjectCard({
             playsInline
             className="pointer-events-none mx-auto h-40 w-full object-cover object-top" // needed because random black line at bottom of video
           />
+          ` }}></div>
+
         )}
         {image && (
           <Image
